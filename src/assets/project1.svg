@@ -1,0 +1,7 @@
+<!-- Placeholder SVG for project 1 -->
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="400" fill="#1e293b"/>
+  <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="#10b981" font-size="40" font-family="Arial">
+    Project 1 Image
+  </text>
+</svg>
